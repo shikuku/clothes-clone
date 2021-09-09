@@ -3,6 +3,9 @@ body {
   background-color:grey;
   text-align: center;
 }
+.logo{
+  margin:0px 20px 0px 20px;
+}
 
 nav ul li {
   display: inline-block;
@@ -10,7 +13,7 @@ nav ul li {
   padding-inline: 20px;
 }
 .h1 {
-  color: lawngreen;
+  color:darkslateblue;
 }
 .paragraph {
     text-align: center;
@@ -27,7 +30,7 @@ nav ul li {
   padding:7px 10px 7px 10px
 }
 .images{
-    box-shadow:2px 5px 6px:lightgoldenrodyellow;
+    box-shadow:2px 5px 6px lightgoldenrodyellow;
     border-radius: 100%;
 }
 
@@ -36,4 +39,18 @@ nav ul li {
 }
 .button{
     padding:10px;
+}
+.p{background-color:gainsboro;
+  text-align: center;
+  color:inherit;
+}
+.name{
+padding-bottom:4px;
+}
+.email{
+  padding-bottom:4px;
+}
+.banner
+{
+  background-color:#A4C451;
 }
