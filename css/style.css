@@ -33,6 +33,7 @@ nav ul li {
 .images{
     box-shadow:2px 5px 6px lightgoldenrodyellow;
     border-radius: 100%;
+    padding: 55px;
 }
 
 .images img {
