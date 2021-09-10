@@ -2,6 +2,7 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   background-color:grey;
   text-align: center;
+  border: 2px sololid red;
 }
 .logo{
   margin:0px 20px 0px 20px;
@@ -53,4 +54,12 @@ padding-bottom:4px;
 .banner
 {
   background-color:#A4C451;
+}
+.footnote{
+  color: blue;
+  float:right;
+}
+.love{
+  float:left;
+  color:crimson;
 }
